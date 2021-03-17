@@ -1,0 +1,17 @@
+{
+  "name": "pretest3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pretest3.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node pretest3.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
